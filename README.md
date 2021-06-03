@@ -33,7 +33,8 @@ Sortie
 ## Définitions des évènements de pluie et de temps sec
 
 La fonction `blocs` permet de séparer une chronique catégorisée en blocs (évènements). 
-Elle prend comme arguments~: 
+
+Arguments : 
 
   - `x` la variable à classer en blocs qui doit être un facteur (sec/pluie)
   - `var.num` la variable numérique sur laquelle les caractéristiques des blocs seront calculées (intensité de pluie)

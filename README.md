@@ -1,5 +1,4 @@
-# tools
-Fonctions outils utilisées pendant la thèse
+# Fonctions outils utilisées pendant la thèse
 
 ## Calcul des vitesse de déplacement et interpolation
 

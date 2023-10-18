@@ -2,7 +2,7 @@
 
 ## Calcul des vitesse de déplacement et interpolation
 
-La fonction `motion` permet de calculer la vitesse de déplacement entre deux images radar successives, et la fonciton `interp` permet d'interpoler autant d'image squ'on le veut entre les deux.
+La fonction `motion` permet de calculer la vitesse de déplacement entre deux images radar successives, et la fonction `interp` permet d'interpoler autant d'images qu'on veut entre les deux.
 
 ### Vitesse de déplacement
 
@@ -28,7 +28,7 @@ Arguments
 
 Sortie
 
-  - Un `array` de taille (nrow(i1), ncol(i1), n+1)
+  - Un `array` de taille `(nrow(i1), ncol(i1), n+1)`
 
 ## Définitions des évènements de pluie et de temps sec
 
